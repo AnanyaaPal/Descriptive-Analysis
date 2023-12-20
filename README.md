@@ -1,4 +1,4 @@
-### Descriptive-Analysis of NBA Player's Salaries from the years 1990-2023
+Descriptive-Analysis of NBA Player's Salaries from the years 1990-2023
 
 The dataset used for the analysis has been sourced from [Kaggle](https://www.basketball-reference.com/), and contains the details of prominent NBA Players, ranging through the years 1990-2023. 
 
